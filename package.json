@@ -1,0 +1,22 @@
+{
+  "name": "vue3-learning",
+  "version": "1.0.0",
+  "description": "learning vue3",
+  "keywords": [
+    "vue3"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toBeTheLight/vue3-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toBeTheLight/vue3-learning/issues"
+  },
+  "homepage": "https://github.com/toBeTheLight/vue3-learning#readme"
+}
